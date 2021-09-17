@@ -1,0 +1,7 @@
+.titulo {
+    background-color:  rgb(121, 50, 252);
+    border: 1px solid darkorange;
+
+    position: relative;
+    top: 7vh;
+}
